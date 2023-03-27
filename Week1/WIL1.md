@@ -1,6 +1,6 @@
 https://velog.io/@yachae1101/WIL-GDSC-OC-BE-STUDY-WEEK-1
 
-1주차 과제에 대한 WIL입니다.
+1주차 WIL입니다.
 
 ## ✔️ MVC
 `Model-View-Controller`의 약자로, 소프트웨어 디자인 패턴 중 하나이다.
